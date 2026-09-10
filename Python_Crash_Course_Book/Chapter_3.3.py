@@ -1,4 +1,4 @@
 # Exercise 3.3
 
-New_models = ["Hissatsu", "Elvia", "Disciple", "MR-1"]
-print(f"This new model is on my list: {New_models[0]}")
+car_models = ["toyota", "nissan", "Hyundai", "BYD"]
+print(f"This make of car is on my list: {car_models[0]}")

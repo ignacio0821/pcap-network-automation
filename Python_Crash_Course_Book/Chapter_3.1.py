@@ -1,4 +1,4 @@
 # Exercise 3.1
 
-knives = ["Spyderco", "Cold steel", "Boker", "Kbar", "CRKT"]
-print(knives[0])
+shoes = ["nike", "puma", "adidas", "merrell", "keen"]
+print(f" I prefer these {shoes[0]}")
