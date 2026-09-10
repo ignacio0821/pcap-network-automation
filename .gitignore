@@ -12,3 +12,5 @@ PCAP/.idea/
 
 # System Logs
 *.log
+# Private Project Sandbox
+GitHub_Projects/
