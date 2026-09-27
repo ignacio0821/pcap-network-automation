@@ -14,3 +14,8 @@ PCAP/.idea/
 *.log
 # Private Project Sandbox
 GitHub_Projects/
+
+# Cryptographic & Tactical Private Assets
+*Drone*
+Drone_Projects/
+
