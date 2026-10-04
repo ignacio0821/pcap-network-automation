@@ -1,15 +1,19 @@
-# PCAP Network Automation Portfolio
+# 🛰️ Python PCAP Network Programmability & Forensic Analysis Engine
 
-https://github.com/ignacio0821/pcap-network-automation
+A production-grade network telemetry tracking repository documenting binary packet deconstruction algorithms, protocol payload extraction tools, and core computer science programmatic networks built from first principles for automated security workflows.
 
-## 📌 Overview
-A production-grade repository documenting advanced script architecture, algorithmic optimization, and structural Object-Oriented Programming (OOP) patterns built from first principles for the Certified Associate in Python Programming (PCAP) matrix.
+## 🗂️ Core Repository Architecture
 
-## 📂 Repository Architecture
-* **01_Advanced_Network_Automation/** - Multi-threaded packet parsers, Nornir orchestration handlers, and socket streams.
-* **02_Computer_Science_Foundations/** - Core data structures, algorithmic design patterns, and dictionary mapping engines.
-* **03_Custom_Protocol_Suites/** - Low-level frame encoders, binary payload formatting, and protocol engineering testbeds.
-* **04_System_Automation_Scripts/** - Operating system interfaces, automated file management routines, and core administrative loops.
+| Engineering Directory | Operational Focus & Target Asset |
+| :--- | :--- |
+| **`00_Design_Blueprints_Pseudocode`** | Language-agnostic logic gates and automated network parsing blueprint files. |
+| **`01_Advanced_Network_Automation`** | Production-grade PCAP packet analysis scripts and wire deconstruction utilities. |
+| **`02_Computer_Science_Foundations`** | Fundamental multi-layer algorithm matrices, structural dictionaries, and loop syntax drills. |
+| **`03_Custom_Protocol_Suites`** | Decoded header templates, variable layer definitions, and network transport schemas. |
+| **`04_System_Automation_Scripts`** | OS-level file structure managers, logs scrapers, and cron automation handlers. |
+| **`Assets`** | Authoritative reference packet data captures and core course curriculum syllabus outlines. |
 
-## 🛠️ Automated CI/CD
-This repository utilizes a localized **GitHub Actions CI/CD Pipeline** to enforce strict code hygiene, flake8 code validation, and programmatic syntax checking on every commit branch push.
+---
+
+## 🚀 Automated CI/CD
+This repository utilizes a localized GitHub Actions CI/CD Pipeline to enforce strict code formatting and PEP 8 compliance checks across all automation modules using Black.
